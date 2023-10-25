@@ -34,3 +34,24 @@
 ### Человек ступня
 #### Человек__палец
 #### Человек__палец--согнут
+
+
+## Макет
+
+### header
+![хедер макета](/img/header.png)
+```
+    header.header>(a.header>img.header)+nav>(ul.header>(li.header>a)*7)
+```
+![форма макета](/img/form.png)
+```
+    section.section0>
+```
+![карточки макета](/img/card.png)
+```
+    header.header>(a.header>img.header)+nav>(ul.header>(li.header>a)*7)
+```
+![футер макета](/img/footer.png)
+```
+    header.header>(a.header>img.header)+nav>(ul.header>(li.header>a)*7)
+```
