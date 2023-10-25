@@ -45,13 +45,13 @@
 ```
 ![форма макета](/img/form.png)
 ```
-    section.section0>
+    section.section0>div.wrapper>(div.left>h1+p+(form.section0>(label>span+input.section0)+button.section0))+img.section0
 ```
 ![карточки макета](/img/card.png)
 ```
-    header.header>(a.header>img.header)+nav>(ul.header>(li.header>a)*7)
+    section.section5>div.wrapper>h2.section2+(ul.section5>(li>img+h2+p+time)*3)+a.section5
 ```
 ![футер макета](/img/footer.png)
 ```
-    header.header>(a.header>img.header)+nav>(ul.header>(li.header>a)*7)
+    footer>section>div>img+(div>h3+ul>(li>a)*8)+(div>h3+ul>(li>a)*4)+(div>h3+ul>(li>a)*2)
 ```
